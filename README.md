@@ -1,1 +1,2 @@
 # Matrix
+Simple Matrix Class
